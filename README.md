@@ -1,1 +1,1 @@
-# Amazon_clone
+This project is an Amazon clone implemented solely using HTML and CSS. Through this endeavor, we aim to replicate the fundamental layout and design aspects of the popular e-commerce platform, Amazon, utilizing only the basic web technologies of HTML and CSS.
